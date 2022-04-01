@@ -1,0 +1,6 @@
+switvh(i)
+{
+case0:
+food = "bread";
+break;
+}
