@@ -1,4 +1,4 @@
-switvh(i)
+switch(i)
 {
 case0:
 food = "bread";
