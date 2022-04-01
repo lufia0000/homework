@@ -3,4 +3,13 @@ switvh(i)
 case0:
 food = "bread";
 break;
+case1:
+food = "steak";
+break;
+case2:
+food = "strawberry";
+break;
+case3:
+food = "cola";
+break;
 }
